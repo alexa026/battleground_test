@@ -1,0 +1,8 @@
+{
+  "name": "battle_simulator",
+  "version": "1.0.0",
+  "description": "battle simulator for test",
+  "main": "index.js",
+  "author": "Aleksa Stankovic",
+  "license": "MIT"
+}
