@@ -9,4 +9,5 @@ if (!validate(Config)) {
 }
 
 let battle = new Battleground(Config);
+battle.createArmies();
 battle.startBattle();
